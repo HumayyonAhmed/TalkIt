@@ -1,0 +1,28 @@
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.exe.config
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.exe
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.pdb
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.xml
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk_It.Form1.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk_It.Resources.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.vbproj.GenerateResource.Cache
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.exe
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.xml
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.pdb
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.exe.manifest
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Debug\Talk It.application
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.exe.manifest
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk It.application
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk_It.SplashScreen1.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk_It.SplashScreen2.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Debug\Talk_It.AboutBox1.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\bin\Debug\Talk It.exe.config
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk It.exe
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk It.xml
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk It.pdb
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk It.vbprojResolveAssemblyReference.cache
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk_It.AboutBox1.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk_It.Form1.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk_It.Resources.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk_It.SplashScreen1.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk_It.SplashScreen2.resources
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Debug\Talk It.vbproj.GenerateResource.Cache

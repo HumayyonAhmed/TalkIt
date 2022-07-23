@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Talk It.exe" version="1.0.0.8" publicKeyToken="ac27cecce9908b0f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="1446498205_preferences-desktop-text-to-speech.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Talk It" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Talk It.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Talk It.exe" size="299008">
+      <assemblyIdentity name="Talk It" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WQd5IbeowXEYOrAuzWJLTOKR0I9PlYB5BO/xaR5kLX0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1446498205_preferences-desktop-text-to-speech.ico" size="82726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4gEWQHTLPP5OAVSNdWWUqLeCbeZcwLJJy2U7T53CJ7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Talk It.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=ZEESOFT-PC\Zee" issuerKeyHash="4409b82e0747a4886d3347ef5df309c9a7bffa64" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0prs4X9o6F6dp5eEzNIgrIWVucwkN4bjUQMsOTVwpCA=</DigestValue></Reference></SignedInfo><SignatureValue>dO8WjCJFTI0xxyqJgVkSw4RL4X9IOpfeO0iqBcgg+XgovJodZgk+WZDecYyqp9th5AWKrSUoeN2Lw/PznKjBT73W9HwkZhnJXIvMAIai/ZCIgLc0AvvQPBD+6P4iJmutlgolVPk6WxJDEQOPKpYKqILHZiPE+yPbvhZkjf4s7gI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lETfDgDOc4Wv8tp0LxC+pqtjeoUAXi7QM6vesyqqnGaBzCI6V4YUbv4SaKmwcS+n9Gxqh7SyykEb0d4d5We82lg3vs5v9d5Ca2xTs96b0UZ9cTYAKPlgwDsJE3X/gl9FFSrJ2K2eJFmbZcZleM3h1lDDd9k6AVzv39GeKh2niZs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="20a47035392c0351e3863724ccb99585ac20d2cc8497a79d5ee8687fe1ec9ad2" Description="" Url=""><as:assemblyIdentity name="Talk It.exe" version="1.0.0.8" publicKeyToken="ac27cecce9908b0f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ZEESOFT-PC\Zee</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xDZlImS99836u1o1c7k3wIGpfaYrOMDdZry/IM6heB8=</DigestValue></Reference></SignedInfo><SignatureValue>NLpTNA95W4vfzW2YixUn47bLi2rc1IA3s9SFaU1i7huGG+hVQ5bumsFFJFBQWRZJ9e2ezJWUjWunyZ79Rjf1P+pGAoHZBpfQ1tsjvkKalJk0crK9sYNzYyNThekSQWCmS1g0IMvWV/xQMEWwQ611CsfaOL72BvdjqZc/LCUvA4o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lETfDgDOc4Wv8tp0LxC+pqtjeoUAXi7QM6vesyqqnGaBzCI6V4YUbv4SaKmwcS+n9Gxqh7SyykEb0d4d5We82lg3vs5v9d5Ca2xTs96b0UZ9cTYAKPlgwDsJE3X/gl9FFSrJ2K2eJFmbZcZleM3h1lDDd9k6AVzv39GeKh2niZs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQUfMcmP4gEbRJcPwHsE6GRjANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAWgBFAEUAUwBPAEYAVAAtAFAAQwBcAFoAZQBlMB4XDTE1MTAzMTE3MDAyNFoXDTE2MTAzMDIzMDAyNFowJzElMCMGA1UEAx4cAFoARQBFAFMATwBGAFQALQBQAEMAXABaAGUAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAlETfDgDOc4Wv8tp0LxC+pqtjeoUAXi7QM6vesyqqnGaBzCI6V4YUbv4SaKmwcS+n9Gxqh7SyykEb0d4d5We82lg3vs5v9d5Ca2xTs96b0UZ9cTYAKPlgwDsJE3X/gl9FFSrJ2K2eJFmbZcZleM3h1lDDd9k6AVzv39GeKh2niZsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBCYTokctdfXVI+z9kJX7s3oIZMrDV4/yAADOpzrT65QCGebdeAIAzFSAc4b5xgMdqRGcrH59eOX9yIoDpjAWb8tcQFcVi1/D0AYEiQNNb3q6j5s6a+Tf9p8PpKTdRyIf+LuD3J2Dg3DdghvQUUGMCONtV5XRnwi2D1rDtRLZp17A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

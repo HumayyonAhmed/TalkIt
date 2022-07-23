@@ -1,0 +1,22 @@
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.exe.config
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.exe.manifest
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.application
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.exe
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.pdb
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\bin\Release\Talk It.xml
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk_It.Form1.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk_It.Resources.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.vbproj.GenerateResource.Cache
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.exe.manifest
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.application
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.exe
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.xml
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.pdb
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk_It.AboutBox1.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk_It.SplashScreen1.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk_It.SplashScreen2.resources
+C:\Users\Zee\Documents\Visual Studio 2013\Projects\Talk It\Talk It\obj\Release\Talk It.TrustInfo.xml
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\bin\Release\Talk It.exe.config
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Release\Talk It.exe
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Release\Talk It.xml
+E:\Code\Soft Dev\Talk It\Talk It\Talk It\Talk It\obj\Release\Talk It.pdb
